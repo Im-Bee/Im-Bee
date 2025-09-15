@@ -18,6 +18,9 @@ My goal is to make all my projects cross-platform (mainly targeting Windows and 
 
 I strive to write well abstracted, bug free code, but I love optimizing it so it's as fast as I can make it.
 
+![screenshot](https://github.com/Im-Bee/wolfenstein_like_rendering_in_terminal/blob/main/Docs/ReadMeScreenshot.jpg?raw=true)
+
+
 <!--
 **Im-Bee/Im-Bee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
