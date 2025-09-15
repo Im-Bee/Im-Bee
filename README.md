@@ -5,7 +5,7 @@ I'm a student of Jan Kochanowski University.
 I like to learn about 3D graphics, games, and engines in general, I was also slightly into web development for a moment.  
 I love pointers, manual memory management and power of lower level programming languages.
 
-I know how to use C/C++ and rust. Really interested in Vulkan and DX12 APIs also a bit in how compilers work. Wrote a few lines in assembly, so I know how bit masks work.
+I know how to use C/C++ and rust. Really interested in Vulkan and DX12 APIs also a bit in how compilers work. Wrote a few lines in assembly, so I know how bit masks work. Used graphic debuggers like Nvidia Nsight and PIX. 
 I'm interested in design patterns like observer subscriber, singletons, RAII (Resource acquisition is initialization), template metaprogramming, CRTP (Curiously Recurring Template Pattern) etc. 
 I love (and hate) operating system APIs (WinAPI and linux headers).
 
