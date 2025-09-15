@@ -18,7 +18,6 @@ My goal is to make all my projects cross-platform (mainly targeting Windows and 
 
 I strive to write well abstracted, bug free code, but I love optimizing it so it's as fast as I can make it.
 ```
-= = - : : : : : : : : : : : : : : : : o = = o o o o o o o o o : - - = = = = = = = = = = = = % % = = - - - - - - : : : : : - - o o
 - : : : : : : : : : : : : : : : : : : o - = o o o o o o o o o % : - = = = o o o % o o o o % = % o = = = = = = = - - = = = = = o o
 : : : : : : : : : : : : : : : : : : : : - o o o o o o o o o o o = : : - - - = = = = = = % - o % = - - = = = = = - - - = = = = = =
 : : : : : : : : : : : : : : : : : : : : - o o o o o o o o = = = % : : : : : : : : - - = = = % o - - - - - - - : : : : : : : : : :
@@ -55,9 +54,6 @@ I strive to write well abstracted, bug free code, but I love optimizing it so it
 . . . . . o o o o o - : : : : : : : : : : : - - - - - - - - - - - - = = = = = = = = = o o % o : : : : : : : : . : . . . - : : . :
 . . . . . : - o = - : : : : : : : : : : : - - - - - - - - - - - - = = = = = = = = = o % % % : : : : : : : : : . : : . . o : . . :
 . . . . o o - - - - - - - - : : : : : : - - - - - - - - - - - - - = - - = = = = = = o % % : % : : : : : : : . : : : : : : : : : .
-. . . : o : - - : - : - : : : : : : : : : - - - - - - - - - - - = = = = = = = = o o % % : : : : : : : : . : : : : . : . . = . . .
-. . : o . : . . : : : : : : : : : : : : : - - - - - - - - - - = = = = = = = = = = o % % : : : : : : : : : : : : . . . : . . . . .
-. o . . . . . : : : : : : : : : : : : - - - - - - - = - - - - = = = = = = = = o o % % % % : : : : : : : : : . . . : : : . : . : :
 ```
 
 
