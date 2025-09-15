@@ -17,6 +17,7 @@ I knows how to use a little of actix_rs and sea_orm in rust, .NET WPF in c# as w
 My goal is to make all my projects cross-platform (mainly targeting Windows and Linux).
 
 I strive to write well abstracted, bug free code, but I love optimizing it so it's as fast as I can make it.
+```
 = = = = = = = = = - - - = - - - - - = - - - - - - - - - - - - - - - - - - - = = = = - - : - : : : : : : : : - : : - = o
 = = = = = = = = = = = = = = - - - - - - - - - - - - - - - : - - - - - - - - - = = = = - - : : : : : : : : : - = = = = o
 = = - = = = = = = = = = = = = - - - - - - - - - - - - - - : - - - - - - - - - - - - - = - - : : . : . : - o = = = = = o
@@ -76,7 +77,7 @@ o o o o = = o = = = o o o o o o o o o o o o o o o o o = = = = = = = = - = = = = 
 o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o = = = = = o o o o o o o o o o o o = -
 o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o = = = = = o o o o o o = = =
 o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o = =
-
+```
 ![screenshot](https://github.com/Im-Bee/wolfenstein_like_rendering_in_terminal/blob/main/Docs/ReadMeScreenshot.jpg?raw=true)
 
 
